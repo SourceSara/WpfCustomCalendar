@@ -7,5 +7,5 @@
 </p>
 
 <p dir="rtl" align="center">
-  <img alt="WPF Custom Calendar" src="./Docs/Preview.png>
+  <img alt="WPF Custom Calendar" src="./Docs/Preview.png">
 </p>
